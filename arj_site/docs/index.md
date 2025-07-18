@@ -25,3 +25,19 @@ Before that, I worked in computational drug discovery at **Schrödinger** and **
 
 ---
 
+## 📝 Blog Posts
+
+- [Introducing **Training Cluster as a Service**: a new collaboration with NVIDIA](https://huggingface.co/blog/nvidia-training-cluster)  
+  _Hugging Face Blog, June 11, 2025_
+
+- [**Dell Enterprise Hub** is all you need to build AI on premises](https://huggingface.co/blog/dell-ai-applications)  
+  _Hugging Face Blog, May 23, 2025_
+
+---
+
+## 📚 Technical Sessions
+
+- [**Leverage the Power of AWS Deep Learning Containers with Kubernetes for Training Deep Learning Models at Scale**](https://pages.awscloud.com/Leverage-the-Power-of-AWS-Deep-Learning-Containers-with-Kubernetes-for-Training-Deep-Learning-Models-at-Scale_2021_0915-MCL_OD.html)  
+  _AWS Online Tech Talks (Level 300), September 27, 2021_
+
+---

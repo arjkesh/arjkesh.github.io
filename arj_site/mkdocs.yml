@@ -2,6 +2,19 @@ site_name: Arjuna K.
 site_url: docs
 theme:
   name: material
+  palette:
+    - scheme: default               # Light mode
+      primary: teal                 # or "lightblue"
+      accent: teal                  # or "lightblue"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate                 # Dark mode
+      primary: teal                 # or "lightblue"
+      accent: teal                  # or "lightblue"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 nav:
   - About Me: index.md
   # - Projects:
