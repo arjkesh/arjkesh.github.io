@@ -1,0 +1,12 @@
+site_name: Arjuna K.
+site_url: docs
+theme:
+  name: material
+nav:
+  - About Me: index.md
+  # - Projects:
+  #   - ICUAlert: projects/icu_alert.md
+  #   - Deep Learning Containers: projects/dlc.md
+  # - Music:
+  #   - Tunes: music/tunes.md
+
